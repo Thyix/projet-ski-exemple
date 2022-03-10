@@ -1,0 +1,21 @@
+{
+  "name": "Projet-ski",
+  "version": "0.0.1",
+  "description": "Projet d'exemple pour le projet ski",
+  "main": "index.js",
+  "author": "William Garneau",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "type": "module"
+}
